@@ -9,6 +9,16 @@ BetDAG is an innovative AI-powered prediction market platform built on BlockDAG 
 ## Live demo
 https://betdag.vercel.app/
 
+## Figma Design
+https://www.figma.com/design/RBHsGvfo1qImoKiQLs0fWH/Untitled?node-id=11-74&t=UMMowp2lmcrtxZPn-0
+
+## Pitch Deck
+https://www.figma.com/slides/uYhFYZtioSn7Kj9QHPOZSD/Untitled?node-id=1-88&t=Jk0Wey3xIwaafgqr-1
+
+## Demo Video
+https://youtu.be/sF2wHivdu_U
+
+
 ## 🌟 Overview
 
 BetDAG leverages the power of blockchain technology and artificial intelligence to create a transparent, secure, and engaging platform where users can:
